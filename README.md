@@ -1,3 +1,4 @@
 # recurrent-neural-network-for-music
-this repository is related to using recurrent neural network  for music analysis it contains using of rnn for teaching music to machine and remixing it with other songs
+this repository is related to using recurrent neural network  for music analysis it contains using of rnn for teaching music to machine and remixing it with other songs.   
+ 
 rnn for music code uses recurrent neural netwok to train model to understad musical notes from scratch which are much complex and dynamic series to decode and teach. we use recurrent neural network as the data based on time frame as for each time step we have a certain beat, pitch, tempo so as the data depends on time and also on previous step as music flows in a continues manner so for predicting new steps we have to take account of previous steps also and this model work as magic for such complex and dynamic problem. this code may serve as basis for many things like remixing music and generating new music as it also predict the next stage of the input so you can easily generate new raw music from it.
